@@ -2,12 +2,12 @@
 ## An online music streaming and downloading application.
 
 #### Features
-    Online Song Search
-    Streaming Support
-    Offline Download Support
-    320Kbps m4a/mp3 Format
-    ID3 Tags Attached
-  	Lyrics Support
+    Online song search
+    Streaming support
+    Offline download dupport
+    320Kbps m4a/mp3 format
+    ID3 tags attached
+  	Lyrics support
 
 
 ##### The integration has an end-point to the [unofficial JioSaavn API](https://github.com/sumitkolhe/jiosaavn-api).
