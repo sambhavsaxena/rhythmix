@@ -31,7 +31,5 @@ With the SDK installed and added to path, you are now good to go:
 
 The output debug-apk can be found in the Android folder, in the default output location and the app is ready for further migration.
 
-#### For contributions: 
-[Contact](mailto:sambhavsaxena02@outlook.com) before pulling a new request.
 <div align="center"><a href="https://drive.google.com/file/d/1uRbKsD6kl9Jw54mr4CL3_obYg6vl7ZzV/view">Download latest pre-release here</a></div>
 <div align="center"><a href="https://www.buymeacoffee.com/sambhavsaxena">Sponser this project</a></div>
