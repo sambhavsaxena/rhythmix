@@ -7,7 +7,7 @@
     Offline download dupport
     320Kbps m4a/mp3 format
     ID3 tags attached
-  	Lyrics support
+  	Lyrics available
 
 
 ##### The integration has an end-point to the [unofficial JioSaavn API](https://github.com/sumitkolhe/jiosaavn-api).
