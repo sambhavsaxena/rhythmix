@@ -1,6 +1,5 @@
 import 'dart:io';
 import 'dart:ui';
-
 import 'package:audiotagger/audiotagger.dart';
 import 'package:audiotagger/models/tag.dart';
 import 'package:cached_network_image/cached_network_image.dart';
@@ -32,7 +31,6 @@ class AppState extends State<Rhythmix> {
 
   void initState() {
     super.initState();
-
     SystemChrome.setSystemUIOverlayStyle(SystemUiOverlayStyle(
       systemNavigationBarColor: Color(0xff1c252a),
       statusBarColor: Colors.transparent,
