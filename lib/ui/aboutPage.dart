@@ -111,7 +111,7 @@ class AboutCards extends StatelessWidget {
                     image: DecorationImage(
                       fit: BoxFit.fill,
                       image: NetworkImage(
-                          "https://avatars.githubusercontent.com/u/76242518?s=400&u=24d086dcee842f9eda24809691f13978cd1ab4fb&v=4"),
+                          "https://avatars.githubusercontent.com/u/76242518?s=400&u=aadd0902d6ff29a39477b1cfabb45315184e3c12&v=4"),
                     ),
                   ),
                 ),
