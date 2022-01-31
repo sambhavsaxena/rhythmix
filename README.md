@@ -20,7 +20,7 @@ The official documentation for SDK setup can be found [here](https://flutter.dev
 With the SDK installed and added to path, you are now good to go:
 1. Star, Fork or Git clone this repository.
 2. Open up the terminal and navigate to the root directory.
-3. Run command 1: `flutter run build`.
+3. Run command: `flutter run`.
 4. Connect the device after the USB debugging has been enabled.
 5. Click `run` to start the app in the connected device.
 6. In case of an emulator, start the app using `Fn` + `F5` key.
